@@ -1,3 +1,4 @@
+
 1.	Download and install the Visual Studio Community Edition.
 2.	Create a console application which takes 5 numbers from user input and prints those numbers multiplied by 10.
 Output could be like this:
