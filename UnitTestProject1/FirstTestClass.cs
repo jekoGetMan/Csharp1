@@ -16,7 +16,7 @@ namespace UnitTestProject1
         [SetUp]
         public void Before()
         {
-            //Some default setup before every tes
+            //Some default setup before every test
             driver.Manage().Window.Maximize();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(3);
 //            driver.Close();
